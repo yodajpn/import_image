@@ -1,2 +1,2 @@
-# import_image.py
+# import_image
 save images from a web page by python.
